@@ -54,6 +54,9 @@ The main purpose of this project is to practice:
 * Add hover animations and transitions
 * Improve typography and color palette
 * Add navigation bar and interactive elements
+## Live Preview
+*Please visit https://yusaf30.github.io/Coffee-shop-menu/
+  
 
 ---
 
